@@ -37,6 +37,10 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alejandr003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alejandr003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandr003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpzeWUxMXM2b3c3aWxmYXNiNzBpb2lhaXg5NXR4dnd4NHQwbXk1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13mfssn73An6De/giphy.gif"  />
 
