@@ -33,6 +33,10 @@ java,html,css,react,nodejs,mysql,git,github,vercel,bootstrap,php
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&count_private=true&theme=radical)
 
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
 - **Public Repositories:** 10
 - **Followers:** 2
 - **Following:** 4
