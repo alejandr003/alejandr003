@@ -33,9 +33,6 @@ java,html,css,react,nodejs,mysql,git,github,vercel,bootstrap,php
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&count_private=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandr003&show_icons=true&theme=dark&locale=en&layout=compact" alt="alejandr003" /></p>
-
-
 - **Public Repositories:** 10
 - **Followers:** 2
 - **Following:** 4
@@ -50,4 +47,3 @@ java,html,css,react,nodejs,mysql,git,github,vercel,bootstrap,php
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts to share. Stay tuned as I start documenting my projects and learnings!
-
