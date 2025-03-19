@@ -48,6 +48,3 @@ java,html,css,react,nodejs,mysql,git,github,vercel,bootstrap,php
 
 Currently, I don't have any blog posts to share. Stay tuned as I start documenting my projects and learnings!
 
-## Connect with Me
-
-{"instagram":"https://www.instagram.com/alejandr0_31/"}
