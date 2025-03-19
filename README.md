@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Alejandro Chan (Yisus) and I'm a TSU Software develoment student, from Riviera Maya University</h2>
 
 ###
 
