@@ -51,5 +51,4 @@ Currently, I don't have any blog posts to share. Stay tuned as I start documenti
 ## Connect with Me
 
 {"instagram":"https://www.instagram.com/alejandr0_31/"}
-##
 {"LinkedIn":"https://www.linkedin.com/in/jes%C3%BAs-alejandro-chan-yama-463842267/"}
