@@ -1,47 +1,55 @@
-<h2 align="left">Hi 👋! My name is Alejandro Chan (Yisus) and I'm a TSU Software develoment student, from Riviera Maya University</h2>
+## Hi there! 👋
 
-###
+I'm **Jesús Alejandro Chan Yama**, a university student from the **Riviera Maya University**. Passionate about coding and technology, I'm always eager to learn and grow my skills in software development! 🚀
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+## About Me
 
-###
+Currently based in Quintana Roo, I'm working on the FinanSync project while pursuing my university studies. I love exploring new technologies and finding creative solutions to complex problems. My goal is to become a proficient developer and contribute to exciting projects in the tech industry!
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alejandr003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alejandr003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandr003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Skills & Technologies
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpzeWUxMXM2b3c3aWxmYXNiNzBpb2lhaXg5NXR4dnd4NHQwbXk1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13mfssn73An6De/giphy.gif"  />
-[![](https://visitcount.itsvg.in/api?id=alejandr003&icon=0&color=0)](https://visitcount.itsvg.in)
-###
+java,html,css,react,nodejs,mysql,git,github,vercel,bootstrap,php
+
+## Top Projects
+
+- [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ)
+  - Description: Consumo de la API de dragón ball. Nota: No es responsivo, únicamente diseñado para laptops.
+  - Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0
+
+- [Gestor-de-tareas_Python](https://github.com/alejandr003/Gestor-de-tareas_Python)
+  - Description: Test de gestor de tareas en consola.
+  - Stars: 0 | Language: Python | Forks: 0 | Issues: 0
+
+- [CONTROL-ESCOLAR-FINAL](https://github.com/alejandr003/CONTROL-ESCOLAR-FINAL)
+  - Description: Java (POO) code using local server on MariaDB; Connection Java with JDBC.
+  - Stars: 0 | Language: Java | Forks: 0 | Issues: 0
+
+- [FinanceSync](https://github.com/alejandr003/FinanceSync)
+  - Description: Proyecto de Integradora TI32.
+  - Stars: 0 | Language: CSS | Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&count_private=true&theme=radical)
+
+- **Public Repositories:** 10
+- **Followers:** 2
+- **Following:** 4
+
+## Recent Activity
+
+- Updated [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ) with new routes. 
+- Fixed dependencies in [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ).
+- Created a task manager in Python in [Gestor-de-tareas_Python](https://github.com/alejandr003/Gestor-de-tareas_Python).
+- Started a new project on [FinanceSync](https://github.com/alejandr003/FinanceSync).
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share. Stay tuned as I start documenting my projects and learnings!
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/alejandr0_31/"}
+##
+{"LinkedIn":"https://www.linkedin.com/in/jes%C3%BAs-alejandro-chan-yama-463842267/"}
