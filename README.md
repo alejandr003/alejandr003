@@ -4,30 +4,28 @@ I'm **Jesús Alejandro Chan Yama**, a university student from the **Riviera Maya
 
 ## About Me
 
-Currently based in Quintana Roo, I'm working on the FinanSync project while pursuing my university studies. I love exploring new technologies and finding creative solutions to complex problems. My goal is to become a proficient developer and contribute to exciting projects in the tech industry!
-
-
-## Skills & Technologies
-
-java,html,css,react,nodejs,mysql,git,github,vercel,bootstrap,php
+Currently based in Quintana Roo, I'm working on the SIAMP-G project while pursuing my university studies. I love exploring new technologies and finding creative solutions to complex problems. My goal is to become a proficient developer and contribute to exciting projects in the tech industry!
 
 ## Top Projects
 
+- [Biblioteca-Backend](https://github.com/alejandr003/biblioteca-backend)
+  - Description: API de libros para una aplicación móvilen React para consultas.
+  
+- [Biblioteca-App-Móvil](https://github.com/alejandr003/biblioteca-Android-App)
+  - Description: App Móvil usando React Native.
+
 - [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ)
-  - Description: Consumo de la API de dragón ball. Nota: No es responsivo, únicamente diseñado para laptops.
-  - Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0
+  - Description: Consumo de la API de dragón ball.
 
 - [Gestor-de-tareas_Python](https://github.com/alejandr003/Gestor-de-tareas_Python)
   - Description: Test de gestor de tareas en consola.
-  - Stars: 0 | Language: Python | Forks: 0 | Issues: 0
 
 - [CONTROL-ESCOLAR-FINAL](https://github.com/alejandr003/CONTROL-ESCOLAR-FINAL)
   - Description: Java (POO) code using local server on MariaDB; Connection Java with JDBC.
-  - Stars: 0 | Language: Java | Forks: 0 | Issues: 0
+
 
 - [FinanceSync](https://github.com/alejandr003/FinanceSync)
   - Description: Proyecto de Integradora TI32.
-  - Stars: 0 | Language: CSS | Forks: 0 | Issues: 0
 
 ## GitHub Stats
 
