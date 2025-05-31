@@ -8,24 +8,11 @@ Currently based in Quintana Roo, I'm working on the SIAMP-G project while pursui
 
 ## Top Projects
 
-- [Biblioteca-Backend](https://github.com/alejandr003/biblioteca-backend)
-  - Description: API de libros para una aplicación móvilen React para consultas.
-  
-- [Biblioteca-Android-App](https://github.com/alejandr003/biblioteca-Android-App)
-  - Description: App Móvil usando React Native.
-
-- [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ)
-  - Description: Consumo de la API de dragón ball.
-
-- [Gestor-de-tareas_Python](https://github.com/alejandr003/Gestor-de-tareas_Python)
-  - Description: Test de gestor de tareas en consola.
-
-- [CONTROL-ESCOLAR-FINAL](https://github.com/alejandr003/CONTROL-ESCOLAR-FINAL)
-  - Description: Java (POO) code using local server on MariaDB; Connection Java with JDBC.
-
-
-- [FinanceSync](https://github.com/alejandr003/FinanceSync)
-  - Description: Proyecto de Integradora TI32.
+- [**Biblioteca-Backend**](https://github.com/alejandr003/Biblioteca-Backend): API de consulta de libros - ⭐️ 0 - Language: JavaScript
+- [**Biblioteca-Android-App**](https://github.com/alejandr003/Biblioteca-Android-App): Aplicación de consulta de libros - ⭐️ 0 - Language: TypeScript
+- [**ESP32-desautenticacion-proyecto-IoT**](https://github.com/alejandr003/ESP32-desautenticacion-proyecto-IoT): Proyecto de ESP32 para probar la seguridad en redes WIFI - ⭐️ 0 - Language: C++
+- [**api-app-web**](https://github.com/alejandr003/api-app-web): CRUD realizado en Express con Node.js - ⭐️ 0 - Language: JavaScript
+- [**Practica_Consumo-de-API-DBZ**](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ): Consumo de la API de dragón ball - ⭐️ 0 - Language: JavaScript
 
 ## GitHub Stats
 
