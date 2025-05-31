@@ -1,10 +1,13 @@
 ## Hi there! 👋
 
-I'm **Jesús Alejandro Chan Yama**, a university student from the **Riviera Maya University**. Passionate about coding and technology, I'm always eager to learn and grow my skills in software development! 🚀
+I'm **Jesús Alejandro Chan Yama**, a passionate developer. I love creating innovative solutions and exploring new technologies!
 
 ## About Me
 
-Currently based in Quintana Roo, I'm working on the SIAMP-G project while pursuing my university studies. I love exploring new technologies and finding creative solutions to complex problems. My goal is to become a proficient developer and contribute to exciting projects in the tech industry!
+Based in **Quintana Roo**, I specialize in building robust applications using various technologies. My journey in tech is fueled by curiosity and a desire to learn continuously.
+
+
+
 
 ## Top Projects
 
@@ -16,8 +19,23 @@ Currently based in Quintana Roo, I'm working on the SIAMP-G project while pursui
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&count_private=true&theme=radical)
+🌟 **Public Repositories:** 13  
+👥 **Followers:** 4  
+➡️ **Following:** 4  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## Recent Activity
+
+- Updated the README for [**Biblioteca-Backend**](https://github.com/alejandr003/Biblioteca-Backend)  
+- Made several commits to [**biblioteca**](https://github.com/alejandr003/biblioteca)  
+- Commented on issues in [**MarcoCaamal/SIAMP-G-Server**](https://github.com/MarcoCaamal/SIAMP-G-Server)  
+- Created a new repository for a project  
+- Pushed updates to [**Practica_Consumo-de-API-DBZ**](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ)
 
 ## Latest Blog Posts
 
-Currently, I don't have any blog posts to share. Stay tuned as I start documenting my projects and learnings!
+Currently, I don't have any blog posts to share. Stay tuned for updates!
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/alejandr0_31/"}
