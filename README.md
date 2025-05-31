@@ -11,7 +11,7 @@ Currently based in Quintana Roo, I'm working on the SIAMP-G project while pursui
 - [Biblioteca-Backend](https://github.com/alejandr003/biblioteca-backend)
   - Description: API de libros para una aplicación móvilen React para consultas.
   
-- [Biblioteca-App-Móvil](https://github.com/alejandr003/biblioteca-Android-App)
+- [Biblioteca-Android-App](https://github.com/alejandr003/biblioteca-Android-App)
   - Description: App Móvil usando React Native.
 
 - [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ)
@@ -30,17 +30,6 @@ Currently based in Quintana Roo, I'm working on the SIAMP-G project while pursui
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandr003&show_icons=true&count_private=true&theme=radical)
-
-- **Public Repositories:** 10
-- **Followers:** 2
-- **Following:** 4
-
-## Recent Activity
-
-- Updated [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ) with new routes. 
-- Fixed dependencies in [Practica_Consumo-de-API-DBZ](https://github.com/alejandr003/Practica_Consumo-de-API-DBZ).
-- Created a task manager in Python in [Gestor-de-tareas_Python](https://github.com/alejandr003/Gestor-de-tareas_Python).
-- Started a new project on [FinanceSync](https://github.com/alejandr003/FinanceSync).
 
 ## Latest Blog Posts
 
