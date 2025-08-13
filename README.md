@@ -23,13 +23,6 @@ Based in **Quintana Roo**, I specialize in web and mobile development. With a so
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandr003&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Recent Activity
-
-- **Updated README.md** in [Biblioteca-Backend](https://github.com/alejandr003/Biblioteca-Backend)  
-- **Created new branch** in [Biblioteca-Backend](https://github.com/alejandr003/Biblioteca-Backend)  
-- **Pushed changes** to [Biblioteca-Backend](https://github.com/alejandr003/Biblioteca-Backend)  
-- **Merged PR** in [biblioteca](https://github.com/alejandr003/biblioteca)  
-- **Commented** on an issue in [SIAMP-G-Server](https://github.com/MarcoCaamal/SIAMP-G-Server)
 
 ## Connect with Me
 
