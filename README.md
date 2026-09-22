@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! My name is Alejandro, and I'm a programmer in training from Riviera Maya in Mexico 🫠</h2>
+<h2 align="left">Hi there! My name is Alejandro, and I'm a Full Stack Developer who keeps on learning.</h2>
 
 <!--
 ###
